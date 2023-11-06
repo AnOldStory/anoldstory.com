@@ -1,0 +1,26 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "AnOldStory <hc9904@naver.com>",
+  "homepage": "https://github.com/AnOldStory/anoldstory.com#readme",
+  "license": "ISC",
+  "main": "lib/frontend.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnOldStory/anoldstory.com.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/frontend.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/AnOldStory/anoldstory.com/issues"
+  }
+}
